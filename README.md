@@ -41,6 +41,10 @@
 
 1. 애뮬레이터로 expo 앱 실행
 
+1. RN 프로젝트 생성
+```bash
+react-native init <project-name>
+```
 
 2. RN 프로젝트 실행
 
