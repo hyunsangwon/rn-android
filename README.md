@@ -41,15 +41,15 @@
 
 1. 애뮬레이터로 expo 앱 실행
 
-1. RN 프로젝트 생성
+2. RN 프로젝트 생성
 ```bash
-react-native init <project-name>
+npx create-expo-app AwesomeProject
 ```
 
-2. RN 프로젝트 실행
+3. RN 프로젝트 실행
 
 ```bash
 npx expo start
 ```
 
-2. a 누르고 엔터 (애뮬레이터로 다운로딩 될꺼임)
+4. a 누르고 엔터 (애뮬레이터로 다운로딩 될꺼임)
